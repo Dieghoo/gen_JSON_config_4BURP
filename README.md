@@ -1,5 +1,5 @@
 # gen_JSON_config_4BURP
-A simple script that accepts a list of regexes to be passed to Burp Suite. The initial idea is to pipe the regex-scope-burp´s output to generate an array of possible JSON structures to be then placed into Burp Config Files.
+A simple script that accepts a list of regexes to be passed to Burp Suite. The initial idea is to pipe the regex-scope-burp´s output to generate an array of possible JSON structures to be inserted into a output file named scope_config.json to then placed into Burp Config Files.
 
 
 C program to generate a Burp Suite scope configuration JSON file from a list of domain names.
